@@ -14,9 +14,9 @@ In order to help optimize light delivery strategies, OptogenSIM, a 3D
 Monte Carlo simulation platform for optogenetic applications, has been
 developed under an extensive multisite collaboration since August 2012.
 The development partners in OptogenSIM are: Professor [Steven Jacques's
-Lab](http://omlc.ogi.edu/~jacquess/)\[1\] at Oregon Health and Science
-University, the [BIST Lab](https://pantherfile.uwm.edu/pashaie/www/)
-\[2\]at the University of Wisconsin at Milwaukee, and [the LOCI group at
+Lab](http://omlc.ogi.edu/~jacquess/)<sup>1</sup> at Oregon Health and Science
+University, the [BIST Lab](https://pantherfile.uwm.edu/pashaie/www/)<sup>2</sup>
+at the University of Wisconsin at Milwaukee, and [the LOCI group at
 the University of Wisconsin at Madison](https://eliceirilab.org/).
 OptogenSIM can be used for simulating light delivery in brain in a wide
 variety of optogenetic applications. It aims to provide a 3D simulator
@@ -24,22 +24,22 @@ for predicting light distribution in heterogeneous brain tissue with
 high resolution, including a voxel-based 3D Monte Carlo tool custom
 built for optogentics light delivery, generic optical properties library
 for different brain tissues, and a 3D mouse brain atlase segmented with
-SPM-based tool\[3,4\]. This platform allows for delivering light at any
-locations of the brain and with commonly used fiber geometries and light
-source types, taking into account the light wavelength and power,
-optical fiber diameter and numerical aperture(NA), brain tissue optical
-properties, light beam type and tissue heterogeneity. Estimated light
-density contours can show the region of any specified power density in
-the 3D brain space and thus can help optimize the light delivery
-settings. A demonstrated validation of mcxyz vs gold standard MCML can
-be found
+SPM-based tool<sup>3,4</sup>. This platform allows for delivering light
+at any locations of the brain and with commonly used fiber geometries
+and light source types, taking into account the light wavelength and
+power, optical fiber diameter and numerical aperture(NA), brain tissue
+optical properties, light beam type and tissue heterogeneity. Estimated
+light density contours can show the region of any specified power
+density in the 3D brain space and thus can help optimize the light
+delivery settings. A demonstrated validation of mcxyz vs gold standard
+MCML can be found
 [here](https://loci.wisc.edu/files/loci/software/mcmlVSmcxyz_validation.pdf).
 
 Other rodent brain atlases can also be incorporated into OptogenSIM. We
-have tested the simulation on an average 3D mouse brain atlas\[5\] and
-an average 3D rat brain atlas\[6\] but due to copyright issues for
-direct distribution of the atlases with our tool, these atlases have not
-been included in the current version.
+have tested the simulation on an average 3D mouse brain
+atlas<sup>5</sup> and an average 3D rat brain atlas<sup>6</sup> but due
+to copyright issues for direct distribution of the atlases with our
+tool, these atlases have not been included in the current version.
 
 We would like to thank Dr. Helene Benveniste at the Stony Brook
 University for providing the permission to incorporate the 3D mouse
@@ -94,18 +94,12 @@ including the Matlab m-files, data, as well as a distribution of
 manual](https://loci.wisc.edu/files/loci/software/OptogenSIM%20quickstart%20manual10292015.pdf)
 to start.**
 
-### Links
+### References
 
-1. [3D Monte Carlo code at Steven Jacques's Lab](http://omlc.ogi.edu/software/mc/mcxyz/)
-
-2. [Optogenetics researches at Ramin Pashaie's BIST Lab](https://pantherfile.uwm.edu/pashaie/www/research.htm)
-
-3. [Statistic Parametric Mapping (SPM) software](http://www.fil.ion.ucl.ac.uk/spm/)
-
-4. [SPMMOUSE software](http://spmmouse.org/)
-
-5. [Average mouse brain atlas](http://www.spmmouse.org/)
-
-6. [Average Rat Brain Atlas](http://www.idac.tohoku.ac.jp/bir/en/db/rb/)
-
-7. [3D Mouse Brain Atlas](http://brainatlas.mbi.ufl.edu/Database/)
+<sup>1</sup> [3D Monte Carlo code at Steven Jacques's Lab](http://omlc.ogi.edu/software/mc/mcxyz/)  
+<sup>2</sup> [Optogenetics researches at Ramin Pashaie's BIST Lab](https://pantherfile.uwm.edu/pashaie/www/research.htm)  
+<sup>3</sup> [Statistic Parametric Mapping (SPM) software](http://www.fil.ion.ucl.ac.uk/spm/)  
+<sup>4</sup> [SPMMOUSE software](http://spmmouse.org/)  
+<sup>5</sup> [Average mouse brain atlas](http://www.spmmouse.org/)  
+<sup>6</sup> [Average Rat Brain Atlas](http://www.idac.tohoku.ac.jp/bir/en/db/rb/)  
+<sup>7</sup> [3D Mouse Brain Atlas](http://brainatlas.mbi.ufl.edu/Database/)
