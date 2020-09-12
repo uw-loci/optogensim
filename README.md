@@ -17,7 +17,7 @@ The development partners in OptogenSIM are: Professor [Steven Jacques's
 Lab](http://omlc.ogi.edu/~jacquess/)\[1\] at Oregon Health and Science
 University, the [BIST Lab](https://pantherfile.uwm.edu/pashaie/www/)
 \[2\]at the University of Wisconsin at Milwaukee, and [the LOCI group at
-the University of Wisconsin at Madison](https://loci.wisc.edu/).
+the University of Wisconsin at Madison](https://eliceirilab.org/).
 OptogenSIM can be used for simulating light delivery in brain in a wide
 variety of optogenetic applications. It aims to provide a 3D simulator
 for predicting light distribution in heterogeneous brain tissue with
@@ -72,23 +72,23 @@ Laboratory for Optical and Computational Instrumentation (LOCI).
 
 2. Download the [OptogenSIM standalone for Windows](https://loci.wisc.edu/files/loci/software/OptogenSIM_Win64_mcr2014b_0.zip)
    or [OptogenSIM standalone for Mac](https://loci.wisc.edu/files/loci/software/OptogenSIM_Mac_mcr2014b_0.zip).
-   Unzip and then run the application “OptogenSIM” (To be noted, before
-   opening ‘OptogenSIM’, if you ever ran the older release, make sure to
-   delete/rename/move the old ‘OSGworking’ folder mentioned in step 3 of
-   the manual, otherwise the new release could not work properly.)):
+   Unzip and then run the application `OptogenSIM` (To be noted, before
+   opening `OptogenSIM`, if you ever ran the older release, make sure to
+   delete/rename/move the old `OSGworking` folder mentioned in step 3 of
+   the manual, otherwise the new release could not work properly.):
 
-In Windows: double click on “OptogenSIM”
+On Windows: double click on `OptogenSIM`
 
-In Mac: right click on “OptogenSIM”(ctrl-click)-----&gt;Show Package
-Contents ----&gt; Contents----&gt;MacOS----&gt;applauncher (right-click
-and choose open)
+On Mac: right/control click on `OptogenSIM` &rarr; Show Package Contents
+&rarr; Contents &rarr; MacOS &rarr; applauncher (right-click and choose
+open)
 
 ### Source-code version
 
 Download and unzip [source
 code](https://loci.wisc.edu/files/loci/software/sourcecodeOptogenSIM20151028_0.zip)
 including the Matlab m-files, data, as well as a distribution of
-mcxyz.c. Open and run the function “OptogenSIM” to launch the GUI.
+`mcxyz.c`. Open and run the function `OptogenSIM` to launch the GUI.
 
 **Download the [quick
 manual](https://loci.wisc.edu/files/loci/software/OptogenSIM%20quickstart%20manual10292015.pdf)
@@ -96,8 +96,7 @@ to start.**
 
 ### Links
 
-1. [3D Monte Carlo code at Steven Jacques's
-Lab](http://omlc.ogi.edu/software/mc/mcxyz/)
+1. [3D Monte Carlo code at Steven Jacques's Lab](http://omlc.ogi.edu/software/mc/mcxyz/)
 
 2. [Optogenetics researches at Ramin Pashaie's BIST Lab](https://pantherfile.uwm.edu/pashaie/www/research.htm)
 
