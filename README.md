@@ -56,10 +56,10 @@ Laboratory for Optical and Computational Instrumentation (LOCI).
 
 ## Download
 
-- [OptogenSIM standalone for Windows 64](https://loci.wisc.edu/files/loci/software/OptogenSIM_Win64_mcr2014b_0.zip)
-- [OptogenSIM standalone for MAC](https://loci.wisc.edu/files/loci/software/OptogenSIM_Mac_mcr2014b_0.zip)
-- [OptogenSIM quick manual](https://loci.wisc.edu/files/loci/software/OptogenSIM%20quickstart%20manual10292015.pdf)
-- [OptogenSIM source code](https://loci.wisc.edu/files/loci/software/sourcecodeOptogenSIM20151028_0.zip)
+- [OptogenSIM standalone for Windows 64](https://github.com/uw-loci/optogensim/releases/download/v1.0/OptogenSIM_Win64_mcr2014b.zip)
+- [OptogenSIM standalone for MAC](https://github.com/uw-loci/optogensim/releases/download/v1.0/OptogenSIM_Mac_mcr2014b.zip)
+- [OptogenSIM quick manual](https://github.com/uw-loci/optogensim/releases/download/v1.0/OptogenSIM.quickstart.manual10292015.pdf)
+- [OptogenSIM source code](https://github.com/uw-loci/optogensim/archive/refs/tags/v1.0.zip)
 
 ## Instructions
 
