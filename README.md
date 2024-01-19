@@ -70,8 +70,8 @@ Laboratory for Optical and Computational Instrumentation (LOCI).
   [Windows64 MCR 2014b](https://www.mathworks.com/supportfiles/downloads/R2014b/deployment_files/R2014b/installers/win64/MCR_R2014b_win64_installer.exe)
   or [Mac MCR 2014b](https://www.mathworks.com/supportfiles/downloads/R2014b/deployment_files/R2014b/installers/maci64/MCR_R2014b_maci64_installer.zip).
 
-2. Download the [OptogenSIM standalone for Windows](https://loci.wisc.edu/files/loci/software/OptogenSIM_Win64_mcr2014b_0.zip)
-   or [OptogenSIM standalone for Mac](https://loci.wisc.edu/files/loci/software/OptogenSIM_Mac_mcr2014b_0.zip).
+2. Download the [OptogenSIM standalone for Windows](https://github.com/uw-loci/optogensim/releases/download/v1.0/OptogenSIM_Win64_mcr2014b.zip)
+   or [OptogenSIM standalone for Mac](https://github.com/uw-loci/optogensim/releases/download/v1.0/OptogenSIM_Mac_mcr2014b.zip).
    Unzip and then run the application `OptogenSIM` (To be noted, before
    opening `OptogenSIM`, if you ever ran the older release, make sure to
    delete/rename/move the old `OSGworking` folder mentioned in step 3 of
@@ -86,12 +86,12 @@ open)
 ### Source-code version
 
 Download and unzip [source
-code](https://loci.wisc.edu/files/loci/software/sourcecodeOptogenSIM20151028_0.zip)
+code](https://github.com/uw-loci/optogensim/archive/refs/tags/v1.0.zip)
 including the Matlab m-files, data, as well as a distribution of
 `mcxyz.c`. Open and run the function `OptogenSIM` to launch the GUI.
 
 **Download the [quick
-manual](https://loci.wisc.edu/files/loci/software/OptogenSIM%20quickstart%20manual10292015.pdf)
+manual](https://github.com/uw-loci/optogensim/releases/download/v1.0/OptogenSIM.quickstart.manual10292015.pdf)
 to start.**
 
 ### References
